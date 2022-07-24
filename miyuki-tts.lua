@@ -2,7 +2,7 @@
 --@author Minori, Henke, Empy, et al.
 --@client
 
-local remoteLanguageIndex = "https://gist.githubusercontent.com/Miyukiinstant/60fbd817d26d4a36557b459849372ff8/raw/166fd5abc1c7849217b864a2c13b58d3e1cb25c7/ttsvoices"
+local remoteLanguageIndex = "https://raw.githubusercontent.com/Miyukiinstant/meta-tts/main/voice.json"
 local languageIndex = {}
 local errorLookup = { [2] = "Invalid language" }
 
